@@ -1,7 +1,7 @@
 
 
 
-<span style="color:blue"><h1>Hi there, I'm <a href="https://www.vanishtachangea.com/">Vanishta</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1></span>  
+<span style="color:blue"><h1>Hi, I'm <a href="https://www.vanishtachangea.com/">Vanishta</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1></span>  
 
 
 |  ⚡  ||||||||||⚡|
