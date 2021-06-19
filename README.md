@@ -15,3 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <span style="color:blue"><h1>Hi there, I'm <a href="https://www.vanishtachangea.com/">Vanishta</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1></span>
+
+|    ||||||||||
+| ------------  |
+|  |![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)   |   |![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)|| |  |   ![SQL](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)  | ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb) |
+|   |  ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) |   |![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)|| |  ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)|   |   |
+|   |   | ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java) ||| | | ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dot-net&logoColor=white) |  ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)|
