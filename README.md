@@ -1,9 +1,10 @@
 
 
-
+<!--
 <span style="color:blue"><h1>Hi, I'm <a href="https://www.vanishtachangea.com/">Vanishta</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1></span>  
+<h1>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>-->
 
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1132F7&lines=Hi+I'm+Vanishta)](https://git.io/typing-svg)
 |  ⚡  ||||||||||⚡|
 |   -- |--|--|--|--|--|--|--|--|--|--|
 |    ||||||||||
